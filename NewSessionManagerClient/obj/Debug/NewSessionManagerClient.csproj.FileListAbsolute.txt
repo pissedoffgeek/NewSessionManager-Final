@@ -1,0 +1,15 @@
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\System.Reflection.Metadata.dll
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\System.Collections.Immutable.dll
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\MsgPack.dll
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\CitizenFX.Core.pdb
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\CitizenFX.Core.xml
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\MsgPack.xml
+D:\GTA Dev\NewSessionManagerClient\obj\Debug\NewSessionManagerClient.csprojAssemblyReference.cache
+D:\GTA Dev\NewSessionManagerClient\obj\Debug\NewSessionManagerClient.csproj.CopyComplete
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\CitizenFX.Core.Client.dll
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\NewSessionManagerClient.Net.dll
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\NewSessionManagerClient.Net.pdb
+D:\GTA Dev\NewSessionManagerClient\obj\Debug\NewSessionManagerClient.Net.dll
+D:\GTA Dev\NewSessionManagerClient\obj\Debug\NewSessionManagerClient.Net.pdb
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\NewSessionManagerServer.net.dll
+D:\GTA Dev\NewSessionManagerClient\bin\Debug\NewSessionManagerServer.net.pdb

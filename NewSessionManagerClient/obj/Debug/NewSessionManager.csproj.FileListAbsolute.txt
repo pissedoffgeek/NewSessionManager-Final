@@ -1,0 +1,13 @@
+C:\Users\point\source\repos\SessionManager\bin\Debug\CitizenFX.Core.dll
+C:\Users\point\source\repos\SessionManager\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\point\source\repos\SessionManager\bin\Debug\System.Collections.Immutable.dll
+C:\Users\point\source\repos\SessionManager\bin\Debug\MsgPack.dll
+C:\Users\point\source\repos\SessionManager\bin\Debug\CitizenFX.Core.pdb
+C:\Users\point\source\repos\SessionManager\bin\Debug\CitizenFX.Core.xml
+C:\Users\point\source\repos\SessionManager\bin\Debug\MsgPack.xml
+C:\Users\point\source\repos\SessionManager\obj\Debug\NewSessionManager.csproj.CopyComplete
+C:\Users\point\source\repos\SessionManager\bin\Debug\NewSessionManager.dll
+C:\Users\point\source\repos\SessionManager\bin\Debug\NewSessionManager.pdb
+C:\Users\point\source\repos\SessionManager\obj\Debug\NewSessionManager.dll
+C:\Users\point\source\repos\SessionManager\obj\Debug\NewSessionManager.pdb
+C:\Users\point\source\repos\SessionManager\obj\Debug\NewSessionManager.csprojAssemblyReference.cache
